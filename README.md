@@ -25,5 +25,3 @@
 
 🎯 **Project Goal**
 The primary objective of this project is to create an intelligent, accessible, and efficient communication tool that translates sign language into text and speech in real time, making everyday interactions more inclusive through the power of Artificial Intelligence and Computer Vision.
-
-⭐ *If you find this project useful, consider giving it a star and contributing to make it even better!*
