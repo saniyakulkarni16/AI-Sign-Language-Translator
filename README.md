@@ -2,6 +2,8 @@
 
 🚀 **AI Sign Language Translator** is a deep learning–based application that bridges the communication gap between sign language users and non-signers. Using **Python**, **OpenCV**, **TensorFlow/Keras**, and **Convolutional Neural Networks (CNNs)**, the system captures hand gestures through a webcam, recognizes them in real time, and converts them into meaningful **text** and **speech**.
 
+Dataset : https://www.kaggle.com/datasets/rushilverma07/indian-sign-language-alphabet-dataset
+
 ✨ **Key Features**
 
 * 🤖 Real-time hand gesture recognition using AI and Computer Vision.
